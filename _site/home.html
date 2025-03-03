@@ -201,8 +201,14 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="volunteers" class="level2">
 <h2 class="anchored" data-anchor-id="volunteers">Volunteers</h2>
-<p>We are seeking volunteers to serve as judges or mentors. Mentors are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants. Judges will watch presentations on Sunday and help award prizes; again, no technical expertise is required. If you are interested in participating as either a judge or mentor, please see contact the Statistics faculty or sign up via the website below.</p>
-<p>For more details, please contact the Statistics faculty members (<a href="mailto:stats@middlebury.edu">stats@middlebury.edu</a>)</p>
+<p>We are seeking volunteers to serve as judges or mentors for the event.</p>
+<ul>
+<li><strong>Mentors</strong> are present during the work hours to interact with groups and answer questions that arise. To be a mentor, no technical expertise is required. Mentors should feel empowered to offer technical advice if they so choose, but are primarily there to facilitate discussion among participants.</li>
+<li><strong>Judges</strong> will watch presentations on Sunday and help award prizes; again, no technical expertise is required.</li>
+</ul>
+<p>If you are interested in participating as either a judge or mentor, please see contact the Statistics faculty or sign up via the website below.</p>
+<hr>
+<p>For more details, please contact the Statistics faculty members (<a href="mailto:stats@middlebury.edu">stats@middlebury.edu</a>).</p>
 
 
 </section>
@@ -300,7 +306,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/midd-datafest-2025\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

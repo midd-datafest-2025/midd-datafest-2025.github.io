@@ -125,7 +125,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>link to register groups?</p>
+<p>Students are encouraged to register a team for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.</p>
+<p><a href="https://google.com" class="btn btn-primary" color="gold">Link to Google form</a></p>
 
 
 
@@ -222,7 +223,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/midd-datafest-2025\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
