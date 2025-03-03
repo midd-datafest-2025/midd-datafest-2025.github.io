@@ -1,0 +1,43 @@
+---
+title: "Christian Stratton"
+---
+
+### About me
+
+::: {.grid}
+
+::: {.g-col-7}
+My name is Christian Stratton and I am currently an assistant professor of statistics at Middlebury College. My research interests include:
+
+  - Bayesian computation
+  - Species distribution modeling
+  - Occupancy modeling
+  - Dimension reduction
+  - Modeling of wildlife diseases
+  - Spatial statistics
+
+When not working on projects in `R` or `Julia`, I am probably out on the river looking for trout or hiking in the backcountry.
+
+:::
+
+::: {.g-col-4}
+![Fishing for arctic grayling in Bozeman, MT.](pics/pic1.jpg){width=85%}
+:::
+
+::: {.g-col-1}
+:::
+
+:::
+
+
+### Education
+
+  - **Doctorate of Philosophy in Statistics**, Montana State University, May 2022
+    + Dissertation: *Bayesian Hierarchical Latent Variable Models for Ecological Data Types*
+    + Co-advisors: Dr. [Andrew Hoegh](https://math.montana.edu/ahoegh/) and Dr. [Jennifer Green](https://directory.natsci.msu.edu/Directory/Profiles/Person/102588)
+  - **Master of Science in Statistics**, Montana State University, May 2018
+  - **Bachelor of Science in Mathematics (focus: Statistics)**, Montana State University, December 2016
+
+### Contact
+
+For potential collaboration or inquiries from students, please contact me at [christianstratton@montana.edu](mailto:christianstratton@montana.edu). For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group [website](https://bozemanenvrstat.github.io/).
