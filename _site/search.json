@@ -1,9 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Christian Stratton",
+    "objectID": "volunteers.html",
+    "href": "volunteers.html",
+    "title": "ASA DataFest 2025",
     "section": "",
-    "text": "About me\n\n\nMy name is Christian Stratton and I am currently an assistant professor of statistics at Middlebury College. My research interests include:\n\nBayesian computation\nSpecies distribution modeling\nOccupancy modeling\nDimension reduction\nModeling of wildlife diseases\nSpatial statistics\n\nWhen not working on projects in R or Julia, I am probably out on the river looking for trout or hiking in the backcountry.\n\n\n\n\n\nFishing for arctic grayling in Bozeman, MT.\n\n\n\n\n\n\n\n\n\nEducation\n\nDoctorate of Philosophy in Statistics, Montana State University, May 2022\n\nDissertation: Bayesian Hierarchical Latent Variable Models for Ecological Data Types\nCo-advisors: Dr. Andrew Hoegh and Dr. Jennifer Green\n\nMaster of Science in Statistics, Montana State University, May 2018\nBachelor of Science in Mathematics (focus: Statistics), Montana State University, December 2016\n\n\n\nContact\nFor potential collaboration or inquiries from students, please contact me at christianstratton@montana.edu. For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group website."
+    "text": "judging and mentoring"
+  },
+  {
+    "objectID": "register.html",
+    "href": "register.html",
+    "title": "ASA DataFest 2025",
+    "section": "",
+    "text": "link to register groups?"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "ASA DataFest 2025",
+    "section": "",
+    "text": "What is DataFest?\nThe American Statistical Association (ASA) DataFest is a celebration of data in which teams of students work around the clock to find and share meaning in a large, rich, and complex data set. The event is open to students of all backgrounds, and provides an opportunity to gain hands-on experience with real-world data.\nHow does it work?\nA large, complex data set will be introduced at the event start, alongside a broad research question. Students will then have until Sunday to create a five-minute presentation that addresses some interesting aspect of the data. The data are kept confidential until the start of the event, but some examples of past events are provided below.\n\n\n\n\n\n\nPlay2Prevent Lab, Yale School of Medicine (2022)\n\n\n\nAnalyze game logs of the Elm City game to determine if there are coherent styles of play that might be useful for characterizing middle school students’ attitudes towards risky behaviors.\n\n\n\n\n\n\n\n\nCanadian National Women’s Rugby Team (2019)\n\n\n\nHow do we quantify the role of fatigue and workload in a team’s performance in Rugby 7s? How reliable are the subjective wellness Data? Should the quality of the opponent or the outcome of the game be considered when examining fatigue during a game? Can widely used measurements of training load and fatigue be improved? How reliable are GPS data in quantifying fatigue?\n\n\nEvent Details\n\nDate: April 4 - April 6\n\nOpening ceremony: Friday, April 4 6:00 pm\nClosing ceremony: Sunday, April 6 11:00 am\n\nLocation: The Q-Center (MBH 202)\nPrizes: Awards for best presentation, visualization, … ?\nSnacks will be provided throughout the weekend\n\nFaculty volunteers\nWe are seeking volunteers for to serve as judges or mentors. Mentors are present during the work hours to interact with groups and answer any questions that arise. Judges will watch presentations on Sunday and help award prizes. If you are interested in participating as either a judge or mentor, please see the contact info below.\nFor more details, please contact the Statistics faculty members (stats@middlebury.edu)"
   }
 ]
