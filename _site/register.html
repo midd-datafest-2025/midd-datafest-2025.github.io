@@ -121,7 +121,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#team-registration" id="toc-team-registration" class="nav-link active" data-scroll-target="#team-registration">Team registration</a></li>
+  <li><a href="#individual-registration" id="toc-individual-registration" class="nav-link active" data-scroll-target="#individual-registration">Individual registration</a></li>
+  <li><a href="#team-registration-for-presentations" id="toc-team-registration-for-presentations" class="nav-link" data-scroll-target="#team-registration-for-presentations">Team registration for presentations</a></li>
   </ul>
 </nav>
     </div>
@@ -131,10 +132,15 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="team-registration" class="level2">
-<h2 class="anchored" data-anchor-id="team-registration">Team registration</h2>
-<p>Students are encouraged to register a team for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.</p>
+<section id="individual-registration" class="level2">
+<h2 class="anchored" data-anchor-id="individual-registration">Individual registration</h2>
+<p>Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.</p>
 <p><a href="https://forms.gle/5VFhPdxT8RXNyggx8" class="btn btn-primary" color="gold">Link to Google form</a></p>
+</section>
+<section id="team-registration-for-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="team-registration-for-presentations">Team registration for presentations</h2>
+<p>If you intend to present, please submit a single response to the Google form below so that we know how many presentations to expect.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfbxv3n6q232ZIY2uFhuHcoxsY-tl6CH4RNTOV4Yv2Co2SYyA/viewform?usp=sharing" class="btn btn-primary" color="gold">Link to Google form</a></p>
 
 
 </section>
@@ -232,7 +238,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/midd-datafest-2025\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
