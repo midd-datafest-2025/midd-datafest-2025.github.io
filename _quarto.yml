@@ -7,7 +7,7 @@ website:
     search: true
     left:
       - text: About DataFest
-        href: home.qmd
+        href: index.qmd
       - text: Register
         href: register.qmd
       - text: Schedule
