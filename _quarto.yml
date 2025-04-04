@@ -6,7 +6,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - DataFest starts tonight at 6:00 in Bi-Hall!"
+    content: "**Alert** - DataFest is under way! See us in Bi-Hall if there are questions."
     type: primary
     position: below-navbar
   navbar:
@@ -20,6 +20,8 @@ website:
         href: schedule.qmd
       - text: Volunteer sign-up
         href: volunteers.qmd
+      - text: Data access
+        href: data.qmd
     tools:
       - icon: envelope-at
         href: mailto:stats@middlebury.edu
