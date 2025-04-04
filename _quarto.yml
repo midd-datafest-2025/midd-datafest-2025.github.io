@@ -3,6 +3,12 @@ project:
 
 website:
   title: "ASA DataFest 2025"
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Alert** - DataFest starts tonight at 6:00 in Bi-Hall!"
+    type: primary
+    position: below-navbar
   navbar:
     search: true
     left:
