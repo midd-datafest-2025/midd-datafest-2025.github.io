@@ -6,7 +6,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - DataFest is under way! See us in Bi-Hall if there are questions."
+    content: "**Alert** - Please use the register tab to register your team for presentations!"
     type: primary
     position: below-navbar
   navbar:
