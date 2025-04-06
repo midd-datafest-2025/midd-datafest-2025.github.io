@@ -6,7 +6,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "**Alert** - DataFest has concluded. Thank you all for making it such a special event!"
+    content: "**Alert** - DataFest has concluded. Thank you all for making it such a special event! Check-in on this website for photos of the event."
     type: primary
     position: below-navbar
   navbar:
@@ -26,7 +26,7 @@ website:
         href: room_assign.qmd
     tools:
       - icon: envelope-at
-        href: mailto:stats@middlebury.edu
+        href: mailto:cstratton@middlebury.edu
 
 format:
   html:
