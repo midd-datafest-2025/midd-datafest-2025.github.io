@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://midd-datafest-2025.github.io/data.html</loc>
-    <lastmod>2025-04-03T18:51:36.706Z</lastmod>
-  </url>
-  <url>
     <loc>https://midd-datafest-2025.github.io/volunteers.html</loc>
-    <lastmod>2025-03-15T18:42:09.635Z</lastmod>
+    <lastmod>2025-03-04T23:48:13.377Z</lastmod>
   </url>
   <url>
     <loc>https://midd-datafest-2025.github.io/room_assign.html</loc>
-    <lastmod>2025-04-06T15:01:48.858Z</lastmod>
-  </url>
-  <url>
-    <loc>https://midd-datafest-2025.github.io/register.html</loc>
-    <lastmod>2025-04-04T14:18:05.613Z</lastmod>
+    <lastmod>2025-04-06T21:57:32.902Z</lastmod>
   </url>
   <url>
     <loc>https://midd-datafest-2025.github.io/index.html</loc>
-    <lastmod>2025-04-04T16:59:53.631Z</lastmod>
+    <lastmod>2025-04-04T16:35:57.992Z</lastmod>
+  </url>
+  <url>
+    <loc>https://midd-datafest-2025.github.io/data.html</loc>
+    <lastmod>2025-04-04T00:15:47.974Z</lastmod>
+  </url>
+  <url>
+    <loc>https://midd-datafest-2025.github.io/register.html</loc>
+    <lastmod>2025-04-04T16:29:54.837Z</lastmod>
   </url>
   <url>
     <loc>https://midd-datafest-2025.github.io/schedule.html</loc>
-    <lastmod>2025-04-04T16:59:53.636Z</lastmod>
+    <lastmod>2025-04-04T16:29:54.839Z</lastmod>
   </url>
 </urlset>
