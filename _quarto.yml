@@ -22,6 +22,8 @@ website:
         href: volunteers.qmd
       - text: Data access
         href: data.qmd
+      - text: Room assignment
+        href: room_assign.qmd
     tools:
       - icon: envelope-at
         href: mailto:stats@middlebury.edu
