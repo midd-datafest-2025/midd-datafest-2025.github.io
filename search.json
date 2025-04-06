@@ -32,21 +32,14 @@
     "href": "room_assign.html",
     "title": "ASA DataFest 2025",
     "section": "",
-    "text": "Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.\nLink to Google form"
+    "text": "The table below provides the room assignments.\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ purrr     1.0.4\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\nRows: 13 Columns: 4\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (4): Timestamp, What is your team name?, Please list the members of your...\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\n\n\n\nteam\nroom\n\n\n\n\nggBoom() LLC\n104\n\n\nThe Canada Giraffes\n219\n\n\nLYFORD & SONS. CO. LLC. LTD. Corp. Inc. Incorporated.\n219\n\n\nTech-focused Law Firm\n104\n\n\nSMACT\n219\n\n\nRandom Forest Rangers\n219\n\n\nTheinsights\n104\n\n\nStatistically Significant Events\n219\n\n\nStandard Stratviations\n104\n\n\nArch Shield\n104\n\n\nData divas\n219\n\n\nLia and Maria\n104\n\n\n*I didn’t think of one\n104"
   },
   {
-    "objectID": "room_assign.html#individual-registration",
-    "href": "room_assign.html#individual-registration",
+    "objectID": "room_assign.html#room-assignments",
+    "href": "room_assign.html#room-assignments",
     "title": "ASA DataFest 2025",
     "section": "",
-    "text": "Students are encouraged to register for the event via the Google form below. We will facilitate forming of new groups during the event for those who cannot find a team prior to the event.\nLink to Google form"
-  },
-  {
-    "objectID": "room_assign.html#team-registration-for-presentations",
-    "href": "room_assign.html#team-registration-for-presentations",
-    "title": "ASA DataFest 2025",
-    "section": "Team registration for presentations",
-    "text": "Team registration for presentations\nIf you intend to present, please submit a single response to the Google form below so that we know how many presentations to expect.\nLink to Google form"
+    "text": "The table below provides the room assignments.\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ purrr     1.0.4\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\nRows: 13 Columns: 4\n── Column specification ────────────────────────────────────────────────────────\nDelimiter: \",\"\nchr (4): Timestamp, What is your team name?, Please list the members of your...\n\nℹ Use `spec()` to retrieve the full column specification for this data.\nℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.\n\n\n\n\n\nteam\nroom\n\n\n\n\nggBoom() LLC\n104\n\n\nThe Canada Giraffes\n219\n\n\nLYFORD & SONS. CO. LLC. LTD. Corp. Inc. Incorporated.\n219\n\n\nTech-focused Law Firm\n104\n\n\nSMACT\n219\n\n\nRandom Forest Rangers\n219\n\n\nTheinsights\n104\n\n\nStatistically Significant Events\n219\n\n\nStandard Stratviations\n104\n\n\nArch Shield\n104\n\n\nData divas\n219\n\n\nLia and Maria\n104\n\n\n*I didn’t think of one\n104"
   },
   {
     "objectID": "register.html",
